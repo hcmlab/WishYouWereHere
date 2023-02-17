@@ -4,6 +4,9 @@ This is a rough initial commit, expect further updates and refactoring soon.
 
 The project is partially built using kejiro's pcx project: https://github.com/keijiro/Pcx
 
+If you use this code, please cite our CHI 23 Paper. You can find the preprint here:
+https://arxiv.org/abs/2301.09402
+
 ### SSI Pipeline Setup (Windows)
 
 - Clone the SSI repository: https://github.com/hcmlab/ssi
