@@ -1,0 +1,6 @@
+shimmer_comportnr = 8 # outgoing COM port of the shimmer (lookup via Windows > Control Panel > search for "Bluet" > Change Bluetooth Settings > Tab "COM ports")
+
+pointcloud_local_receiver_port = 8888 # port where unity on this pc listens for pointcloud data
+pointcloud_remote_receiver = tcp://137.250.171.213:8888 # ip and port  where unity on the remote pc listens for pointcloud data
+
+recording_base_filename = test01 # the base filename used for all recorded streams (i.e. testName => testName_audio.stream, testName_bodytracking.stream, ...)

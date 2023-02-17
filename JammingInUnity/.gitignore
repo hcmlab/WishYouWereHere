@@ -1,0 +1,22 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Vim
+*.swp
+
+# Unity
+/Assets/ViveSR
+/Assets/ViveSR.meta
+/Library
+/Logs
+/Temp
+/UserSettings
+
+/Extras/pcx-strip/*.o
+/Extras/pcx-strip/pcx-strip
+
+/.vs
